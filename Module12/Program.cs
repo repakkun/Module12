@@ -27,7 +27,7 @@ namespace Module12
                 Console.ForegroundColor = ConsoleColor.Black;
                 Console.WriteLine("Your color is cyan!");
             }
-            Console.ReadKey();
+             Console.ReadKey();
         }
     }
 }
